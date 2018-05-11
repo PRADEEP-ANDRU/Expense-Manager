@@ -1,12 +1,12 @@
 # Expense-Manager
 Java Application to store expenses of individual users
 
-# Requirements
+Requirements
  ->Download and install any Java IDE (Eclipse Recommended)
  ->Download and install MySQL server or XAMPP Server
  ->Download MySQL Connector/J
  
-# Running the Application
+Running the Application
  ->Create new Java Project in IDE
  ->Copy files in "src" to src folder
  ->Create new folder images and to it copy contents of "images" folder
